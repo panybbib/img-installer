@@ -2,8 +2,8 @@
 mkdir -p imm
 #https://github.com/panybbib/AutoBuildImmortalWrt/releases/download/Autobuild-x86-64/immortalwrt-23.05-snapshot-x86-64-generic-squashfs-combined-efi.img.gz
 
-REPO="panybbib/img-installer"
-TAG="2025-04-01"
+REPO="panybbib/AutoBuildImmortalWrt"
+TAG="Autobuild-x86-64"
 FILE_NAME="immortalwrt-23.05-snapshot-x86-64-generic-squashfs-combined-efi.img.gz"
 OUTPUT_PATH="imm/immortalwrt.img.gz"
 
